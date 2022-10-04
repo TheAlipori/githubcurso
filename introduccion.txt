@@ -1,1 +1,5 @@
 Hey, aqui estan mis primeros pasos en el mundo de git, y github, la verdad es que esto no sirve mucho como portafolio o para poder enseñar a los demas, solo son ejercicios que hago para determinar que estoy aprendiendo bien, buenas noches :D
+
+
+
+Aqui agrego lineas para ver como funciona diff en git
